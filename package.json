@@ -1,0 +1,28 @@
+{
+  "name": "wx",
+  "version": "1.0.0",
+  "description": "this is a test for installing gulp",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "weui": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoBang123/wx.git"
+  },
+  "keywords": [
+    "gulp",
+    "weixin"
+  ],
+  "author": "xiaoBang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoBang123/wx/issues"
+  },
+  "homepage": "https://github.com/xiaoBang123/wx#readme"
+}
